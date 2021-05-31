@@ -30,7 +30,7 @@ p {
   position: relative;
   right: -2px;
   top: 10px;
-  width: 33%;
+  width: 301px;
   height: 517px;
   display: inline-block;
   background-color: hsl(31, 77%, 52%);
@@ -76,7 +76,7 @@ p {
 }
 
 .suv {
-  width: 33%;
+  width: 298px;
   height: 517px;
   display: inline-block;
   background-color: hsl(184, 100%, 22%);
@@ -90,7 +90,7 @@ p {
 
 .suv-para {
   line-height: 2;
-  width: 200px;
+  width: 208px;
   padding-left: 40px;
   padding-top: 10px;
   color: hsl(0, 0%, 95%);
@@ -123,7 +123,7 @@ p {
   top: -30px;
   position: relative;
   right: 3px;
-  width: 33%;
+  width: 298px;
   height: 517px;
   display: inline-block;
   background-color: hsl(179, 100%, 13%);
